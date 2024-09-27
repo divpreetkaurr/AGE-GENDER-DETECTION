@@ -3,5 +3,7 @@ The project aims to develop a system that can predict a person’s gender (male 
 
 ![image](https://github.com/user-attachments/assets/2ff1b8f0-e402-4a53-8351-86fdfbdd51d5)
 ![image](https://github.com/user-attachments/assets/3b712d00-a5e5-4357-a4ce-bc95660cdad0)
+![image](https://github.com/user-attachments/assets/8282fed0-b219-4d20-be4b-e5fcee8302c4)
+
 
 
